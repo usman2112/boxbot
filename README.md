@@ -1,7 +1,7 @@
 # BoxBot 3D printer
 
 ## Deltaker
-[Skriv navn her]
+Usman
 
 ## Status
 
